@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Architecture, Microservices, Cloud, DevOps etc. 
 - 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on Highly Complex Systems
-- 📫 How to reach me ...
+- 📫 Email me at faisalakandha24@gmail.com
 
 <!---
 faisalakandha/faisalakandha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
