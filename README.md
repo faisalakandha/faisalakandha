@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on Highly Complex Systems
 - 📫 Email me at faisalakandha24@gmail.com
+- <img src="https://www.upwork.com/favicon.ico" /> Hire Me on Upwork !
 
 <!---
 faisalakandha/faisalakandha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
