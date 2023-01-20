@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Security
 - 💞️ I’m looking to collaborate on Highly Complex Systems
 - 📫 Email me at faisalakandha24@gmail.com
-- ![Upwork](https://www.upwork.com/favicon.ico) Hire me on Upwork !
+- <img src="https://www.citypng.com/public/uploads/preview/upwork-round-logo-icon-png-116625559716y405kvdce.png" height="5px" width="5px"> Hire me on Upwork !
 
 <!---
 faisalakandha/faisalakandha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
